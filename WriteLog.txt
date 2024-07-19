@@ -1,0 +1,7 @@
+18/01/2024; 10:02:45,3435008,NGUYEN TAN PHONG,9450000,250000,9200000
+18/01/2024; 10:04:35,Số tiền bạn rút ra không phải là bội số của 10,000 VND ,Error Code: 100
+18/01/2024; 10:04:44,Số dư không đủ để rút tiền. Vui lòng kiểm tra lại. ,Error Code: 103
+18/01/2024; 10:04:49,6701389344,NGUYEN HOANG QUYET,9950000,1500000,8450000
+18/01/2024; 11:15:46,Số tiền bạn rút ra không phải là bội số của 10,000 VND ,Error Code: 100
+18/01/2024; 11:15:52,Số dư không đủ để rút tiền. Vui lòng kiểm tra lại. ,Error Code: 103
+18/01/2024; 11:15:57,1352427086,BACH MINH PHUC,10000000,150000,9850000
